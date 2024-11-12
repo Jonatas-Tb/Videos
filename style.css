@@ -36,12 +36,12 @@ header{
 
 }
 
-.categoria-videos.img.{
+.categoria-videos img.{
     height: 200px;
     opacity: 0,5;
 
 }
-.categoria-videos.img:hover{
+.categoria-videos img:hover{
     opacity: 1.0;
     border: 1px solid rgb(3, 3, 3);
 }

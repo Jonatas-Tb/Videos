@@ -22,3 +22,31 @@ img{
     gap: 10px;
     
 }
+
+header{
+    border-bottom: #000000;
+    padding: 20px;
+    font-size: 32px;
+    color: black(42, 122, 228);
+
+}
+
+.texto{
+    margin-right: 80px;
+}
+
+img{
+    height: 200px;
+
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+
+}
+
+.lista{
+    background-color: aliceblue;
+}

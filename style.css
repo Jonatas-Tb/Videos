@@ -31,7 +31,7 @@ section{
 }
 .categoria-videos img:hover{
     opacity: 1.0;
-    border: 1px solid rgb(156, 0, 135);
+    border: 1px solid rgb(17, 17, 17);
 }
 header{
     border-bottom: #000000;

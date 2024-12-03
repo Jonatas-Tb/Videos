@@ -31,11 +31,11 @@ section{
 }
 .categoria-videos img:hover{
     opacity: 1.0;
-    border: 1px solid black;
+    border: 1px solid rgb(145, 255, 0);
 }
 
 header{
-    border-bottom: #b0ff30;
+    border-bottom: #a8ff07;
     padding: 20px;
     font-size: 32px;
     color: black(42, 122, 228);
